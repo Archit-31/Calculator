@@ -1,5 +1,5 @@
-# calculator-the-first
-This is first project I ever completed. Never forget the first times!
+# calculator
+the web application can be viewed using the following link-
 <b>
 https://archit-31.github.io/calculator-the-first/
 </b>
